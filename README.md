@@ -26,12 +26,15 @@ Reseta as configurações do lançador.
 
 Sai da Aplicação
 
+##Observação
 
+Ainda em ajustes.
+Aplicativo desenvolvido para treino, aquisição de habiliades e aprendizado.
 
 
 ## Crédito
 
 * Desenvolvido por Ricardo Spicka.
-* 2021.
+* OUTUBRO/2021.
 
 # Feito por fã para facilitar a diversão
